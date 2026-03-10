@@ -1,35 +1,7 @@
 
 # 💫 About Me:
-iOS Developer passionate about building scalable and high-performance mobile applications. Expertise in Swift, SwiftUI, and Objective-C, with strong experience in UIKit, CocoaTouch, and modern iOS frameworks. Skilled in building responsive UI using SwiftUI, Combine, and Auto Layout, and implementing MVVM/MVC architecture, SOLID principles, and concurrency (GCD, Actors, async/await). Experienced in secure networking (mTLS), REST API integration, Store & Forward architecture, CI/CD pipelines, and Test-Driven Development (TDD). Passionate about delivering high-performance, secure, and user-centric mobile applications while collaborating effectively in Agile teams.<br><br>
-
+iOS Developer passionate about building scalable and high-performance mobile applications. Expertise in Swift, SwiftUI, and Objective-C, with strong knowledge of UIKit, CocoaTouch, and modern iOS frameworks. Experienced in implementing MVVM/MVC architecture, SOLID principles, multithreading, and secure networking (mTLS) to build high-performance and secure applications. Proficient in REST API integration, CI/CD pipelines, Test-Driven Development (TDD), and Agile methodologies. Adept at collaborating with cross-functional teams to deliver robust, user-centric mobile solutions.<br><br>Technologies & Tools<br>Swift, SwiftUI, Objective-C, UIKit, CocoaTouch, Foundation, Alamofire, Kingfisher, CocoaPods, Swift Package Manager, MVC, MVVM, SOLID Principles, Delegates & Protocols, View Controllers, Grand Central Dispatch (GCD), Actors, Multithreading, mTLS, Store & Forward, Secure API Communication, XCTest, Unit Testing, Test-Driven Development (TDD), Git, SourceTree, Xcode, Azure DevOps, SonarQube, CI/CD, Firebase, Core Data, SQLite, MySQL, Figma, Agile Methodologies, Xcode, Git, SourceTree, Azure DevOps, SonarQube, CI/CD, Postman, Basecamp, Monday, Visual Studio, Eclipse.
 <b>Technologies & Tools</b><br><br>
-
-<b>Languages</b><br>
-Swift, Objective-C<br><br>
-
-<b>iOS Frameworks</b><br>
-UIKit, SwiftUI, CocoaTouch, Foundation, Combine, Core Data, Swift Concurrency (async/await), Grand Central Dispatch (GCD), Actors<br><br>
-
-<b>Architecture & Design</b><br>
-MVC, MVVM, SOLID Principles, Delegates & Protocols, View Controllers<br><br>
-
-<b>Networking & Security</b><br>
-REST APIs, Alamofire, mTLS, Secure API Communication, Store & Forward<br><br>
-
-<b>Libraries & Dependency Management</b><br>
-Kingfisher, CocoaPods, Swift Package Manager<br><br>
-
-<b>Testing</b><br>
-XCTest, Unit Testing, Test-Driven Development (TDD)<br><br>
-
-<b>Databases</b><br>
-Core Data, SQLite, Firebase, MySQL<br><br>
-
-<b>Tools & DevOps</b><br>
-Xcode, Git, SourceTree, Azure DevOps, SonarQube, CI/CD, Postman<br><br>
-
-<b>Design & Collaboration</b><br>
-Figma, Agile Methodologies, Basecamp, Monday.com
 
 
 ## 🌐 Socials:
