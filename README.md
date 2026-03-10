@@ -5,7 +5,7 @@ iOS Developer passionate about building scalable and high-performance mobile app
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gauri-kanojwar-iosdeveloper/) 
+[![LinkedIn](https://www.linkedin.com/in/gauri-kanojwar-iosdeveloper/) 
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift&logoColor=white)
