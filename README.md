@@ -48,7 +48,6 @@ iOS Developer passionate about building scalable, high-performance mobile applic
 ![Xcode](https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-blue?style=for-the-badge&logo=sourcetree&logoColor=white)
-![AzureDevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-DevOps-brightgreen?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
