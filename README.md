@@ -1,8 +1,7 @@
 
 # 💫 About Me:
 iOS Developer passionate about building scalable, high-performance mobile applications. Skilled in Swift, SwiftUI, and Objective-C with strong expertise in UIKit and modern iOS frameworks. Experienced in MVVM/MVC architecture, SOLID principles, multithreading, secure networking (mTLS), REST API integration, CI/CD, TDD, and Agile development to deliver reliable, user-focused mobile solutions.<br>
-<br><br>
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-kanojwar-iosdeveloper/) 
